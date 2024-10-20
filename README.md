@@ -35,3 +35,20 @@ The dataset contains 4 classes: **A**, **B**, **C**, **D**. Given the confusion 
 
 4. **F1 Score**: 
    F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+
+
+
+## Output Example
+
+The performance metrics for classes B and D are as follows:
+```
+Accuracy for class B: 0.908
+Precision for class B: 0.85
+Recall for class B: 0.85
+F1-score for class B: 0.85 
+
+Accuracy for class D: 0.923
+Precision for class D: 0.833
+Recall for class D: 0.769
+F1-score for class D: 0.7997215980024969
+```
